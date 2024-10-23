@@ -1,2 +1,2 @@
 # mercadopago
-Mercado Pago Module Node.js SDK
+Mercado Pago Friendly Module Node.js SDK
